@@ -10,5 +10,5 @@ Sequence of steps,
 - Pass all reviews in order to analyze each one of them and get their tones scores 
 - Nornmalize the Scores 
 - Merge the Nornmlaized scores with each hotel data and there where each hotel should be indexed
--return all hotels data as JSON 
--Build Flask Service around the code 
+- return all hotels data as JSON 
+- Build Flask Service around the code 
